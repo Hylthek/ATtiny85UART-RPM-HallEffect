@@ -1,2 +1,2 @@
 # ATtiny85UART-RPM-HallEffect
-Hall-effect sensor input to UART output
+Automotive sensor input to UART output
